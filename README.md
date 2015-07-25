@@ -1,0 +1,1 @@
+Gemfile に　gem 'natto'　が必要。
